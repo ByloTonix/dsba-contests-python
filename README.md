@@ -1,49 +1,28 @@
 # Python Programming DSBA 2023/24
 
-This repository contains materials, notes, and tasks for the Python Programming course at DSBA, 2023/24. If you find any inconsistencies or have questions, please contact [@l_AnnaPronina_l](https://t.me/l_AnnaPronina_l).
+This repository contains materials, notes, and tasks for the Python Programming course at DSBA, 2023/24.
 
 ## Table of Contents
-1. [Teachers and Assistants](#teachers-and-assistants)
-2. [Grading System](#grading-system)
-3. [Contests](#contests)
+1. [Contests](#contests)
     - [Contest Restrictions](#contest-restrictions)
-    - [Defences](#defences)
-4. [Grades](#grades)
-5. [Lecture Notes](#lecture-notes)
-6. [Workshop Notes](#workshop-notes)
-7. [Control Work](#control-work)
-8. [Project](#project)
-9. [Exam](#exam)
-10. [Syllabus](#syllabus)
-
-## Teachers and Assistants
-
-| Group | Lecturer               | Workshop Instructor        | Teaching Assistant       |
-|-------|------------------------|----------------------------|--------------------------|
-| 231   | Voznesenskaya T.V.      | Rudakov K.A. (@ArcticBEARD) | Pronina Anna (@l_AnnaPronina_l) |
-| 232   | Voznesenskaya T.V.      | Rudakov K.A. (@ArcticBEARD) | Pronina Anna (@l_AnnaPronina_l) |
-| 233   | Voznesenskaya T.V.      | Kopylov I.S. (@DanielWalker)| Shakhmin Pavel (@rotanimoddFPV) |
-| 234   | Voznesenskaya T.V.      | Dovgopolyi I.A. (@TriariiMisha) | Argirov George (@gotchaya) |
-| 235   | Voznesenskaya T.V.      | Rudakov K.A. (@ArcticBEARD) | Valami Benyamin (@MaxmilesV) |
-
-Head TA: Pronina Anna (@l_AnnaPronina_l)
-
-## Grading System
-
-Details about the grading system, including contests, exams, and projects, can be found in this repository. Refer to the appropriate sections below.
+2. [Grades](#grades)
+3. [Lecture Notes](#lecture-notes)
+4. [Workshop Notes](#workshop-notes)
+5. [Project](#project)
+6. [Syllabus](#syllabus)
 
 ## Contests
 
 | Contest    | Deadline                | Topic                    |
 |------------|-------------------------|--------------------------|
-| Contest 1  | 24 sep 2023, 23:59:59    | Arithmetics              |
-| Contest 2  | 1 oct 2023, 23:59:59     | While, float, strings    |
-| Contest 3  | 9 oct 2023, 23:59:59     | Lists and tuples         |
-| Contest 4  | 16 oct 2023, 23:59:59    | Functions                |
-| Contest 5  | 23 oct 2023, 23:59:59    | Sets and dictionaries    |
-| Contest 6  | 6 nov 2023, 23:59:59     | Sorting and searching    |
-| Contest 7  | 11 dec 2023, 23:59:59    | Algorithms and data structures |
-| Contest 8  | 16 dec 2023, 23:59:59    | Functional programming   |
+| [Contest 1](https://official.contest.yandex.ru/contest/52133/enter/)  | 24 sep 2023, 23:59:59    | Arithmetics              |
+| [Contest 2](https://official.contest.yandex.ru/contest/52153/enter/)  | 1 oct 2023, 23:59:59     | While, float, strings    |
+| [Contest 3](https://official.contest.yandex.ru/contest/52941/enter/)  | 9 oct 2023, 23:59:59     | Lists and tuples         |
+| [Contest 4](https://official.contest.yandex.ru/contest/53475/enter/)  | 16 oct 2023, 23:59:59    | Functions                |
+| [Contest 5](https://official.contest.yandex.ru/contest/53874/enter/)  | 23 oct 2023, 23:59:59    | Sets and dictionaries    |
+| [Contest 6](https://official.contest.yandex.ru/contest/54226/enter/)  | 6 nov 2023, 23:59:59     | Sorting and searching    |
+| [Contest 7](https://official.contest.yandex.ru/contest/56807/enter/)  | 11 dec 2023, 23:59:59    | Algorithms and data structures |
+| [Contest 8](https://official.contest.yandex.ru/contest/57220/enter/)  | 16 dec 2023, 23:59:59    | Functional programming   |
 
 ### Contest Restrictions
 
@@ -76,16 +55,6 @@ Each contest has specific restrictions to follow:
 - **Contest 7:** No special requirements
 - **Contest 8:** Tasks should be done using functional programming
 
-### Defences
-
-You may be asked to defend your homework solutions. During the defence, you may:
-- Explain your solution
-- Modify your code based on new conditions
-- Solve a similar problem on paper or in an IDE
-- Identify your solution among others
-
-Failure to attend will result in 0 points for that contest.
-
 ## Grades
 
 Grades are posted in the [results table](#).
@@ -94,44 +63,36 @@ Grades are posted in the [results table](#).
 
 | Date      | Lecture      | Topic                                 |
 |-----------|--------------|---------------------------------------|
-| 11 sep    | Lecture 1     | Introduction                         |
-| 18 sep    | Lecture 2     | Numeral systems, Real numbers, Strings|
-| 25 sep    | Lecture 3     | Lists and tuples                     |
-| 2 oct     | Lecture 4     | Functions and recursion              |
-| 16 oct    | Lecture 5     | Sorting and searching algorithms     |
-| 6 nov     | Lecture 6     | NumPy and Pandas                     |
-| 13 nov    | Lecture 7     | Data visualization                   |
-| 27 nov    | Lecture 8     | Data structures: Stack, Queue, Graphs|
-| 4 dec     | Lecture 9     | Functional programming               |
+| 11 sep    | [Lecture 1](https://drive.google.com/file/d/1c4WKykTCu_6oHszQv0Gil7EhC1BfMo3W/view?usp=sharing)     | Introduction                         |
+| 18 sep    | [Lecture 2](https://drive.google.com/file/d/1tYi02lfKegixiBfGvDNQTgOi2mEveRnr/view?usp=sharing)     | Numeral systems, Real numbers, Strings|
+| 25 sep    | [Lecture 3](https://drive.google.com/file/d/1uyDea3oe3Nwok8DLsyMJ2LEi1Lh_pmHT/view?usp=sharing)     | Lists and tuples                     |
+| 2 oct     | [Lecture 4](https://drive.google.com/file/d/17avfsO2VORhY8TBEHjE1Wf54BL6MDTk3/view?usp=sharing)     | Functions and recursion              |
+| 16 oct    | [Lecture 5](https://drive.google.com/file/d/1gUSSwxaIy2Oh11ka6p1-SHOkyS3a27hG/view?usp=sharing)     | Sorting and searching algorithms     |
+| 6 nov     | [Lecture 6](https://drive.google.com/file/d/1fBE_QQpXXuSEUVm5YHM0Ciyu5SD7ZJa2/view?usp=sharing)     | NumPy and Pandas                     |
+| 13 nov    | [Lecture 7](https://drive.google.com/file/d/1IdkLlz0fdCweOxpk5Vn4YaHYqBStXfLL/view?usp=sharing)     | Data visualization                   |
+| 27 nov    | [Lecture 8](https://drive.google.com/file/d/1IYR9HbD5im6VvHO_hfHFVVf_LnbNHyjq/view?usp=sharing)     | Data structures: Stack, Queue, Graphs|
+| 4 dec     | [Lecture 9](https://drive.google.com/file/d/1ddigf0sO6gWbONbWYSXSeJBGeDcPcXrN/view?usp=sharing)     | Functional programming               |
 
 ## Workshop Notes
 
-- **Workshop 1**: Introduction
-- **Workshop 2**: Numeral systems
-- **Workshop 3**: Float and Strings
-- **Workshop 4**: Strings
-- **Workshop 5**: Lists and tuples
-- **Workshop 6**: Lists and tuples
-- **Workshop 7-8**: Functions and recursion
-- **Workshop 9**: Sets and dictionaries
-- **Workshop 10**: Sets and dictionaries
-- **Workshop 11**: Sort and search
-- **Workshop 12**: Files, exceptions, and errors
-- **Workshop 13**: NumPy
-- **Workshop 14**: Pandas
-- **Workshop 15**: Visualization
-
-## Control Work
-
-The midterm exam will be held on **Monday, October 23**, at **18:10** in offline format. [More details](#).
+- [**Workshop 1**: Introduction](https://drive.google.com/file/d/1dCpdCjHx4TyluhPDnJtkKrcT3rCS7C9x/view?usp=sharing)
+- [**Workshop 2**: Numeral systems](https://drive.google.com/file/d/1No9ZnP-sQx6m4M-naezzWYsevSvrOIr6/view?usp=sharing)
+- [**Workshop 3**: Float and Strings](https://drive.google.com/file/d/1XUEBYFAPvL1KGct5Pu0lW7j6wClbaqO1/view?usp=sharing)
+- [**Workshop 4**: Strings](https://drive.google.com/file/d/1YC67EjbRtLDieTZp8ejffL5lpm9aRhgP/view?usp=sharing)
+- [**Workshop 5**: Lists and tuples](https://drive.google.com/file/d/1e_Rr-QA0QpdGramChDmnFan5RaX01PdM/view?usp=sharing)
+- [**Workshop 6**: Lists and tuples](https://drive.google.com/file/d/1Q613DRQC0K82mME8_s9BaHgj6KPip1ZS/view?usp=sharing)
+- [**Workshop 7-8**: Functions and recursion](https://drive.google.com/file/d/1cv8E-o68qrjqPUJ4W3jvIILBByzQ5TEs/view?usp=sharing)
+- [**Workshop 9**: Sets and dictionaries](https://drive.google.com/file/d/1ZiWaE6rk9Y-5glXiAu5FE2FOxSCUnsna/view?usp=sharing)
+- [**Workshop 10**: Sets and dictionaries](https://drive.google.com/file/d/1fLfU1FdOQDQu5YG-lyIFkTIA2FtqLNjt/view?usp=sharing)
+- [**Workshop 11**: Sort and search](https://drive.google.com/file/d/1_z0f8EO5ZhtYA0UBm0rUSiFeUo-vZy2h/view?usp=sharing)
+- [**Workshop 12**: Files, exceptions, and errors](https://drive.google.com/file/d/108tA9g7nhwU8AbqQX-2PiWAayZ_aNlZJ/view?usp=sharing)
+- [**Workshop 13**: NumPy](https://colab.research.google.com/drive/1koAMZOlmZjcjsQdbW9hKnq0PE_5BAPhj?usp=share_link)
+- [**Workshop 14**: Pandas](https://drive.google.com/file/d/1-G5HFY3I7hTFNuaW0nMDUXu8Bs-ytSrK/view?usp=share_link)
+- [**Workshop 15**: Visualization](https://drive.google.com/file/d/1mkNxs0bgWbR9DncjpXZPa7K_15w0e0-s/view?usp=sharing)
 
 ## Project
 
-Information about the course project can be found [here](#).
-
-## Exam
-
-The final exam will take place on **Thursday, December 21**, at **13:00** in offline format. [More details](#).
+[My course project](https://github.com/ByloTonix/crime-stats)
 
 ## Syllabus
 
