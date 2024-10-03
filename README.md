@@ -56,8 +56,14 @@ Each contest has specific restrictions to follow:
 - **Contest 8:** Tasks should be done using functional programming
 
 ## Grades
-
-Grades are posted in the [results table](#).
+- Contest 1 - 20/20
+- Contest 2 - 19/20 (problem 17 - in this problem you were not allowed to use both for-loops and the count() method)
+- Contest 3 - 20/20
+- Contest 4 - 20/20
+- Contest 5 - 13/13
+- Contest 6 - 13/15 (problem 3 and 4 - .sort() is O(nlogn))
+- Contest 7 - 6/6
+- Contest 8 - 9/9
 
 ## Lecture Notes
 
